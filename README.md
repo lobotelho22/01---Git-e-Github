@@ -5,7 +5,7 @@ Esse é o repositório criado para o desafio do projeto **Git & GitHub** da Web 
 |                  Curso                         |    Link    |
 |                 :-----:                        |    ----:   |
 |Introdução ao Desenvolvimento e Criação de Jogos|**em breve**|
-|Versionamento de Código com Git & GitHub        |**em breve**|
+|Versionamento de Código com Git & GitHub        |[aula 03](cursos/02_Versionamento_de_Codigo/resumo_aula03.md)|
 
 ## Links Úteis
 
