@@ -1,6 +1,11 @@
 # Bem Vindo
 
-Esse é o repositório criado para o desafio do projeto **Git & GitHub** da Web DIO.
+Esse é o repositório criado para o desafio do projeto **Git & GitHub** da Web DIO. Servirá como uma forma de organizar o meu aprendizado nas atividades e aulas.
+
+|Curso|Link|
+|-----|----|
+|Introdução ao Desenvolvimento e Criação de Jogos|**em breve**|
+|Versionamento de Código com Git & GitHub|**em breve**|
 
 ## Links Úteis
 
