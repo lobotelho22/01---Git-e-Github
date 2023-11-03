@@ -2,14 +2,14 @@
 
 Esse é o repositório criado para o desafio do projeto **Git & GitHub** da Web DIO. Servirá como uma forma de organizar o meu aprendizado nas atividades e aulas.
 
-|                  Curso                         |    Link    | Título |
-|                 :-----:                        |    ----:   | ---:|
-|Introdução ao Desenvolvimento e Criação de Jogos|**em breve**|**em breve**|
+|                  Curso                         |    Link    |   Título                     |
+|                 :-----:                        |    ----:   |    ---:                      |
+|Introdução ao Desenvolvimento e Criação de Jogos|**em breve**|**em breve**                  |
 |Versionamento de Código com Git & GitHub        |[aula 03][1]|Primeiros Passos: Git & GitHub|
-|HTML: Client x Server                           |[aula 01][2]|História da Web|
-|HTML: Client x Server                           |[aula 02][3]|Clients|
-|HTML: Client x Server                           |[aula 03][4]|Servers|
-|HTML: Client x Server                           |[aula 04][5]|Linguagens de Programação|
+|HTML: Client x Server                           |[aula 01][2]|História da Web               |
+|HTML: Client x Server                           |[aula 02][3]|Clients                       |
+|HTML: Client x Server                           |[aula 03][4]|Servers                       |
+|HTML: Client x Server                           |[aula 04][5]|Linguagens de Programação     |
 
 ## Links Úteis
 
